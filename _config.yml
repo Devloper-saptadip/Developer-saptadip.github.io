@@ -1,0 +1,6 @@
+title: "My Jekyll Website"
+description: "A simple website built with Jekyll"
+author: "Your Name"
+baseurl: "" # For user/organization sites, leave this blank
+url: "https://<username>.github.io" # Your GitHub Pages URL
+theme: minima # Use the default minima theme for styling
